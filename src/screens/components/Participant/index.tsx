@@ -1,5 +1,5 @@
-import { Text, TouchableOpacity, View } from "react-native";
-import { participantStyles } from "./style";
+import { Text, TouchableOpacity, View } from 'react-native';
+import { participantStyles } from './style';
 
 interface Props {
   name: string,

@@ -1,9 +1,9 @@
-import { StyleSheet } from "react-native";
+import { StyleSheet } from 'react-native';
 
 
 export const participantStyles = StyleSheet.create({
   container:{
-    flexDirection: "row",
+    flexDirection: 'row',
     marginBottom: 10,
     paddingHorizontal: 5,
   },
@@ -22,10 +22,10 @@ export const participantStyles = StyleSheet.create({
     justifyContent: 'center',
     borderTopRightRadius: 10,
     borderBottomRightRadius: 10,
-    backgroundColor: "#e43c44",
+    backgroundColor: '#e43c44',
   },
   removeButtonText:{
     fontSize : 30,
-    color: "#fff",
+    color: '#fff',
   }
 })
